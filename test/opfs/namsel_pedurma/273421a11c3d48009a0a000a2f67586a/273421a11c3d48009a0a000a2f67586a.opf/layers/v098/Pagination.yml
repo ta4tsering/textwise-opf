@@ -1,0 +1,102 @@
+id: 2bb30771226e4b9b84e9c24553dba210
+annotation_type: Pagination
+revision: '00001'
+annotations:
+  de11ce3cb6e340b68b422e62bb157002:
+    page_index: 478a
+    page_info: ''
+    reference: null
+    span:
+      start: 0
+      end: 767
+    note_ref: fa4d348609354ea7867c8db3c5995443
+  fde52ac3320740fb816043b248713280:
+    page_index: 478b
+    page_info: ''
+    reference: null
+    span:
+      start: 770
+      end: 2137
+    note_ref: fa4d348609354ea7867c8db3c5995443
+  8bc9198389af4b3d87e1c4eeae7ecda2:
+    page_index: 479a
+    page_info: ''
+    reference: null
+    span:
+      start: 2140
+      end: 3540
+    note_ref: fa4d348609354ea7867c8db3c5995443
+  a066719199034bfa94c0849ba2a65a71:
+    page_index: 479b
+    page_info: ''
+    reference: null
+    span:
+      start: 3543
+      end: 4971
+    note_ref: fa4d348609354ea7867c8db3c5995443
+  0f4c8008eaad43fdba4dfd67a4cda8b3:
+    page_index: 480a
+    page_info: ''
+    reference: null
+    span:
+      start: 4974
+      end: 6345
+    note_ref: fa4d348609354ea7867c8db3c5995443
+  f044d38c564b415cafdab624f21b5f73:
+    page_index: 480b
+    page_info: ''
+    reference: null
+    span:
+      start: 6348
+      end: 7763
+    note_ref: fa4d348609354ea7867c8db3c5995443
+  2b07e34d27f94cb1aa9890bb1385f743:
+    page_index: 481a
+    page_info: ''
+    reference: null
+    span:
+      start: 7766
+      end: 9158
+    note_ref: fa4d348609354ea7867c8db3c5995443
+  5cd49a3addec4a0aa76e347073212928:
+    page_index: 481b
+    page_info: ''
+    reference: null
+    span:
+      start: 9161
+      end: 10592
+    note_ref: fa4d348609354ea7867c8db3c5995443
+  7ccbb8102c884e73ab5eb16112a30f35:
+    page_index: 482a
+    page_info: ''
+    reference: null
+    span:
+      start: 10595
+      end: 11979
+    note_ref: fa4d348609354ea7867c8db3c5995443
+  fa4d348609354ea7867c8db3c5995443:
+    page_index: 482b
+    page_info: ''
+    reference: null
+    span:
+      start: 11982
+      end: 13944
+  d96db3ec8f5a4e8d901c61a6e6920b77:
+    page_index: 483a
+    page_info: ''
+    reference: null
+    span:
+      start: 13947
+      end: 13989
+local_ids:
+  de11ce3cb6e340b68b422e62bb157002: 200000
+  fde52ac3320740fb816043b248713280: 200001
+  8bc9198389af4b3d87e1c4eeae7ecda2: 200002
+  a066719199034bfa94c0849ba2a65a71: 200003
+  0f4c8008eaad43fdba4dfd67a4cda8b3: 200004
+  f044d38c564b415cafdab624f21b5f73: 200005
+  2b07e34d27f94cb1aa9890bb1385f743: 200006
+  5cd49a3addec4a0aa76e347073212928: 200007
+  7ccbb8102c884e73ab5eb16112a30f35: 200008
+  fa4d348609354ea7867c8db3c5995443: 200009
+  d96db3ec8f5a4e8d901c61a6e6920b77: 200010
